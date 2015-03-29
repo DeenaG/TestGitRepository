@@ -6,6 +6,7 @@ public class TestGitMain {
 		TestGitClass.method();
 		AnotherClass.newMethod();
 		//I am changing this comment in a branch
+		//this is another comment
 
 	}
 
