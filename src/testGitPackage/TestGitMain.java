@@ -5,7 +5,7 @@ public class TestGitMain {
 	public static void main(String[] args) {
 		TestGitClass.method();
 		AnotherClass.newMethod();
-		//comment
+		//I am changing this comment in a branch
 
 	}
 
