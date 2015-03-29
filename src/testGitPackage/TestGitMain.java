@@ -8,6 +8,7 @@ public class TestGitMain {
 		//I am changing this comment in a branch
 		//this is another comment
 
+		//hotfix is different!
 	}
 
 }
