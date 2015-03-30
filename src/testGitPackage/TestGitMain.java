@@ -8,7 +8,7 @@ public class TestGitMain {
 		//I am changing this comment in a branch
 		//this is another comment
 
-		//hotfix is different!
+		//this will change to create a merge conflict
 	}
 
 }
